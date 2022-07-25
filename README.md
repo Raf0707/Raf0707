@@ -7,7 +7,7 @@
 
 - 👯 I collaborate with [FF-Settings-Admin](https://github.com/Raf0707/FF-Settings-Admin)
 
-- 🤝 I’m looking for help with [Karint, virstack, frogl, froglm](https://github.com/Raf0707/Karint, https://github.com/Raf0707/virstack, https://github.com/Raf0707/frogl, https://github.com/Raf0707/froglm)
+- 🤝 I’m looking for help with [Karint](https://github.com/Raf0707/Karint)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raf0707](https://github.com/Raf0707)
 
