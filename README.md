@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tabiin_Muslim_Planner](https://github.com/Raf0707/Tabiin_Muslim_Planer)
 
-- 🌱 I’m currently learning **libGDX, curveGDX, karint Enegine, Unreal Enegine-4, Java, Kotlin, Jetpack Compose, RxJava, JavaFx, C++, Frogl, Material3, REACT.js, vue.js**
+- 🌱 I’m currently learning **Java, Kotlin, C++**
 
 - 👯 I collaborate with [FF-Settings-Admin](https://github.com/Raf0707/FF-Settings-Admin)
 
