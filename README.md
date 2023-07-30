@@ -24,6 +24,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raf0707&" alt="Raf0707" /></p>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Raf0707&theme=react-dark&hide_border=true&area=true)
+
+![3D Profile](anim/profseason.svg)
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <p align="center">
