@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Raf0707&theme=onestar" alt="Raf0707" /></p>
 
-![github-graph](https://github-profile-trophy.vercel.app/?username=Raf0707&theme=onestar)
+![github-graph](https://github-profile-trophy.vercel.app/?username=Raf0707&theme=flat&margin-w=15)
 ![3D Profile](anim/season.svg)
 
 <h2 align="left">Connect with me:</h2>
