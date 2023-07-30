@@ -118,6 +118,13 @@ jobs:
           plugin_repositories_pinned: 5
           plugin_repositories_random: 5
           plugin_repositories_starred: 5
+          plugin_skyline: yes
+          plugin_skyline_year: 2022
+          plugin_skyline_frames: 120
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_days: 14
+          plugin_reactions_details: percentage
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, list, about
