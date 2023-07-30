@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: raf0707/metrics@latest
+      - uses: Raf0707/metrics@latest
         with:
           token: ${{ secrets.README }}
