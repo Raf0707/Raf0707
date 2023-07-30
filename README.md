@@ -124,7 +124,7 @@ C++                      2 repos             ░░░░░░░░░░░�
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
-![Metrics]()
+![Metrics](github-metrics.svg)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
