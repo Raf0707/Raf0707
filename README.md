@@ -130,6 +130,8 @@ R                        1 repo              ░░░░░░░░░░░�
   <img src="metrics.detailed.svg" width="75%"/>
 </p>
 
+![Metrics](/github-metrics.svg)
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <p align="center">
