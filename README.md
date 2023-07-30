@@ -38,23 +38,23 @@
   </a>   
   
   <a href="https://www.hackerrank.com/raf0707/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+    <code><img height="60" width="60" src="im/hr.webp"/></code>
   </a>
 
   <a href="http://www.codeforces.com/profile/raf0707" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
+    <code><img height="60" width="60" src="im/cf.webp"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/@raf0707" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="im/he.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/raf0707" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="im/cc.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/raf0707/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+    <code><img height="60" width="60" src="im/lc.webp"/></code>
   </a>
 </p>
 </p>
