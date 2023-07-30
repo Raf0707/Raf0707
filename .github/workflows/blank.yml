@@ -73,6 +73,8 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 100%
           plugin_habits_trim: yes
+          plugin_topics: yes
+          plugin_topics_sort: random
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
