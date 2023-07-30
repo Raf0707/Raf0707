@@ -34,7 +34,7 @@
 <p align="center">
 
   <a href="https://dev.to/raf0707">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="SVG/dev.svg" alt="Rafail Kikmatulin's DEV Profile" height="62" width="62"></code>
   </a>   
   
   <a href="https://www.hackerrank.com/raf0707/" target="_blank">
