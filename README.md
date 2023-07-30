@@ -26,7 +26,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Raf0707&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](anim/profseason.svg)
+![3D Profile](anim/season.svg)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
