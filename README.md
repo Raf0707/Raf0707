@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raf0707&" alt="Raf0707" /></p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-profile-trophy.vercel.app/?username=Raf0707-ma&theme=radical)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-profile-trophy.vercel.app/?username=Raf0707-ma&theme=flat)
 
 ![3D Profile](anim/season.svg)
 
