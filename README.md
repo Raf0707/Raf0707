@@ -139,15 +139,15 @@ R                        1 repo              ░░░░░░░░░░░�
     <code><img height="60" width="60" src="im/hr.webp"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/@raf0707" target="_blank">
+  <a href="https://www.hackerearth.com/@raf_android-dev" target="_blank">
     <code><img height="60" width="60" src="im/he.svg"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/raf0707" target="_blank">
+  <a href="https://www.codechef.com/users/raf_0707" target="_blank">
     <code><img height="60" width="60" src="im/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/raf0707/" target="_blank">
+  <a href="https://leetcode.com/Raf0707/" target="_blank">
     <code><img height="60" width="60" src="im/lc.webp"/></code>
   </a>
 </p>
