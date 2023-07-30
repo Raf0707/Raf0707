@@ -29,6 +29,107 @@
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](im/github-contribution-grid-snake.svg)
 
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+
+<br>
+<br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C859%20hrs%2033%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 12.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,121 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 75 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12911 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+🌆 Daytime                21975 commits       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌃 Evening                29693 commits       █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌙 Night                  15379 commits       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   11122 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Tuesday                  11104 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                11277 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Thursday                 11090 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   11107 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Saturday                 11797 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Sunday                   12461 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    8 hrs 31 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   8 hrs 31 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+start-here-guidelines    8 hrs 31 mins       █████████████████████████   99.93 % 
+JayantGoel001            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Auto-commit              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Java                     38 repos            ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Kotlin                   24 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+R                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+```
+
+
+
+
+ Last Updated on 29/07/2023 02:10:44 UTC
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+</p>
+
+#
+
+<p align="center">
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
+
+<p align="center">
+  <img width="75%" src="metrics.svg"/>
+  <img src="metrics.detailed.svg" width="75%"/>
+</p>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <p align="center">
