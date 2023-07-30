@@ -29,6 +29,37 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raf0707&" alt="Raf0707" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<p align="center">
+
+  <a href="https://dev.to/raf0707">
+    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+  </a>   
+  
+  <a href="https://www.hackerrank.com/raf0707/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+  </a>
+
+  <a href="http://www.codeforces.com/profile/raf0707" target="_blank">
+    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
+  </a>
+
+  <a href="https://www.hackerearth.com/@raf0707" target="_blank">
+    <code><img height="60" width="60" src="SVG/he.svg"/></code>
+  </a>
+
+  <a href="https://www.codechef.com/users/raf0707" target="_blank">
+    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
+  </a>
+  
+  <a href="https://leetcode.com/raf0707/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+  </a>
+</p>
+</p>
+
+
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Raf" /></a><a href="https://ko-fi.com/Raf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Raf" /></a></p><br><br>
 
