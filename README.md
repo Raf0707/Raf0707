@@ -130,15 +130,6 @@ R                        1 repo              ░░░░░░░░░░░�
   <img src="metrics.detailed.svg" width="75%"/>
 </p>
 
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <p align="center">
