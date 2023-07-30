@@ -27,6 +27,8 @@
 ![github-graph](https://github-profile-trophy.vercel.app/?username=Raf0707&theme=flat&margin-w=15)
 ![3D Profile](anim/season.svg)
 
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <p align="center">
