@@ -135,7 +135,7 @@ R                        1 repo              ░░░░░░░░░░░�
     <code><img src="im/dev.svg" alt="Rafail Kikmatulin's DEV Profile" height="62" width="62"></code>
   </a>   
   
-  <a href="https://www.hackerrank.com/raf0707/" target="_blank">
+  <a href="https://www.hackerrank.com/Raf_0707?hr_r=1" target="_blank">
     <code><img height="60" width="60" src="im/hr.webp"/></code>
   </a>
 
