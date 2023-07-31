@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafail</h1>
-<h2 align="center">Android and Games developer from Russia</h2>
+<h2 align="center">Android developer from Russia</h2>
 
 - 🔭 I’m currently working on [Tabiin_Muslim_Planner](https://github.com/Raf0707/Tabiin_Muslim_Planer)
 
