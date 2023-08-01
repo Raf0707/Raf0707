@@ -3,7 +3,7 @@
 
 <h2 align="center">New!</h2>
 <h3 align="center"> 
-  You can talk about programming and not only in ![Raf Console](https://t.me/+OoI8UWDVVm0yMDNi)
+  You can talk about programming and not only in [Raf Console](https://t.me/+OoI8UWDVVm0yMDNi)
 </h3>
 
 
