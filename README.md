@@ -2,7 +2,7 @@
 <h2 align="center">Android developer from Russia</h2>
 
 <h2 align="center">New!</h2>
-<h3 align="center"> You can talk about programming and not only in [![RafConsole](https://t.me/+OoI8UWDVVm0yMDNi)] </h3>
+<h3 align="center"> You can talk about programming and not only in [RafConsole](https://t.me/+OoI8UWDVVm0yMDNi) </h3>
 
 - 🔭 I’m currently working on [Tabiin_Muslim_Planner](https://github.com/Raf0707/Tabiin_Muslim_Planer)
 
