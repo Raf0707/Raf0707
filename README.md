@@ -3,8 +3,11 @@
 
 <h2 align="center">New!</h2>
 <h3 align="center"> 
-  You can talk about programming and not only in [Raf Console](https://t.me/+OoI8UWDVVm0yMDNi) 
+  You can talk about programming and not only in Raf Console
 </h3>
+
+<img width="329" [alt="RafConsole" src="https://github.com/Raf0707/Raf0707/assets/59168899/d51ea699-5807-4b34-bd3d-c4df4fadbdbd"](https://t.me/+OoI8UWDVVm0yMDNi)>
+
 
 - 🔭 I’m currently working on [Tabiin_Muslim_Planner](https://github.com/Raf0707/Tabiin_Muslim_Planer)
 
