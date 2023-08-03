@@ -2,9 +2,9 @@
 <h2 align="center">Android developer from Russia</h2>
 
 <h2 align="center">New!</h2>
-<h3 align="center"> 
-  You can talk about programming and not only in **Raf"</>"Console Studio** https://t.me/+OoI8UWDVVm0yMDNi
-</h3>
+<h2 align="center"> 
+  You can talk about programming and not only in **Raf&lt;/&gt;Console Studio** https://t.me/+OoI8UWDVVm0yMDNi
+</h2>
 
 
 
