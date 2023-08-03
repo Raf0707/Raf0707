@@ -3,7 +3,7 @@
 
 <h2 align="center">New!</h2>
 <h2 align="center"> 
-  You can talk about programming and not only in [**Raf&lt;/&gt;Console Studio**](https://t.me/+OoI8UWDVVm0yMDNi)
+  <p>You can talk about programming and not only in <a href="https://t.me/+OoI8UWDVVm0yMDNi">Raf&lt;/&gt;Console Studio</a> </p>
 </h2>
 
 
