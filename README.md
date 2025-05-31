@@ -1,5 +1,5 @@
 <h1 align="center">Hi, &lt;/Coders&gt; 👋, I'm Rafail</h1>
-<h2 align="center">Android developer from Tatarstan</h2>
+<h2 align="center">Android developer from <a href="https://t.me/rafConsoleStudio">Raf&lt;/&gt;Console Studio</a></h2>
 
 <h2 align="center">New!</h2>
 <h2 align="center"> 
