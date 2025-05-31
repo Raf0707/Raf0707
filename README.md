@@ -1,5 +1,5 @@
 <h1 align="center">Hi, &lt;/Coders&gt; 👋, I'm Rafail</h1>
-<h2 align="center">Android developer from Russia</h2>
+<h2 align="center">Android developer from Tatarstan</h2>
 
 <h2 align="center">New!</h2>
 <h2 align="center"> 
